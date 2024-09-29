@@ -6,7 +6,7 @@
     "_generator": {
       "name": "bicep",
       "version": "0.30.23.60470",
-      "templateHash": "2250098225672256786"
+      "templateHash": "48581495890499540"
     },
     "name": "Key Vaults",
     "description": "This module deploys a Key Vault.",
@@ -1792,9 +1792,9 @@
             "_generator": {
               "name": "bicep",
               "version": "0.30.23.60470",
-              "templateHash": "9699441961629056921"
+              "templateHash": "1574167538812101372"
             },
-            "name": "Key Vault Keys test",
+            "name": "Key Vault Keys",
             "description": "This module deploys a Key Vault Key.",
             "owner": "Azure/module-maintainers"
           },

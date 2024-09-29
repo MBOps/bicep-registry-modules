@@ -1,4 +1,4 @@
-metadata name = 'Key Vault Keys test'
+metadata name = 'Key Vault Keys'
 metadata description = 'This module deploys a Key Vault Key.'
 metadata owner = 'Azure/module-maintainers'
 
